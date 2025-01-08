@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -shared -Wl,-soname,libinternship_challenge.so -o libinternship_challenge.so CMakeFiles/internship_challenge.dir/src/DataReceiver.cpp.o CMakeFiles/internship_challenge.dir/src/DataTransmetter.cpp.o CMakeFiles/internship_challenge.dir/src/TcpClient.cpp.o CMakeFiles/internship_challenge.dir/src/TcpServer.cpp.o 
